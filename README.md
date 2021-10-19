@@ -5,7 +5,7 @@
 </div>
 <br>
 
-> Default theme for [Oh My Fish][omf-link].
+>  theme for [Oh My Fish][omf-link].
 
 ## Install
 
