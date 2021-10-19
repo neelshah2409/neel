@@ -21,7 +21,7 @@ $ omf theme neel
 * Displays git information in the command prompt when available.
 * Displays the current time.
 * Displays current branch name
-* By default it shows only the name of the current directory but it provides a flag $theme_complete_path to display abbreviated current working directory instead.
+* By default it shows only the name of the current directory but it provides a flag `theme_complete_path` to display abbreviated current working directory instead.
 
 ## Screenshot
 
