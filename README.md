@@ -14,10 +14,14 @@ $ omf theme default
 ```
 
 ## Features
-
+* Minimal Prompt
 * All the things you need to know about Git in a glance.
 * A subtle timestamp hanging out off to the right.
 * Previous command status.
+* Displays git information in the command prompt when available.
+* Displays the current time.
+* Displays current branch name
+* By default it shows only the name of the current directory but it provides a flag _theme_complete_path_ to display abbreviated current working directory instead.
 
 ## Screenshot
 
