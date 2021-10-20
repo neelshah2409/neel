@@ -26,7 +26,10 @@ $ omf theme neel
 ## Screenshot
 
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/526122/9604024/ac338638-50ac-11e5-874a-70fa9287db93.png">
+<img src="![image](https://user-images.githubusercontent.com/71593494/138031763-facac119-ad6f-427f-a6d2-f0628828feab.png)">
+<img src="![Screenshot (786)](https://user-images.githubusercontent.com/71593494/138031907-a55cfa52-5db5-4793-9508-38ecfd3dd81f.png)"
+     "![Screenshot (788)](https://user-images.githubusercontent.com/71593494/138031938-b80a153f-ed8e-411f-860a-9f86073617d4.png)">
+  
 </p>
 
 ## Configuration
@@ -42,7 +45,7 @@ Only display the folder name:
 
 
 [mit]:            http://opensource.org/licenses/MIT
-[author]:         http://github.com/bpinto
+[author]:         http://github.com/neelshah2409
 [contributors]:   https://github.com/oh-my-fish/theme-default/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
