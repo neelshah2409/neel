@@ -5,7 +5,7 @@
 </div>
 <br>
 
->  theme for [Oh My Fish][omf-link].
+> neel theme for [Oh My Fish][omf-link].
 
 ## Install
 
@@ -25,13 +25,12 @@ $ omf theme neel
 
 ## Screenshot
 
-<p align="center">
-  ![image](neel/image.png)
-  
-  
+<p align="center"> 
 - ![image](https://user-images.githubusercontent.com/71593494/138031763-facac119-ad6f-427f-a6d2-f0628828feab.png)
+  
 - ![Screenshot (786)](https://user-images.githubusercontent.com/71593494/138031907-a55cfa52-5db5-4793-9508-38ecfd3dd81f.png)
-     "![Screenshot (788)](https://user-images.githubusercontent.com/71593494/138031938-b80a153f-ed8e-411f-860a-9f86073617d4.png)">
+  
+- ![Screenshot (788)](https://user-images.githubusercontent.com/71593494/138031938-b80a153f-ed8e-411f-860a-9f86073617d4.png)
   
 </p>
 
@@ -44,7 +43,7 @@ Only display the folder name:
 
 # License
 
-[MIT][mit] © [bpinto][author] et [al][contributors]
+[MIT][mit] © [neelshah2409][author] et [al][contributors]
 
 
 [mit]:            http://opensource.org/licenses/MIT
