@@ -26,7 +26,9 @@ $ omf theme neel
 ## Screenshot
 
 <p align="center">
-  ![image](https://github.com/neelshah2409/neel/blob/e57c66cb70ed85195420502dae70eede38aa7803/image.png)
+  ![image](neel/image.png)
+  
+  
 - ![image](https://user-images.githubusercontent.com/71593494/138031763-facac119-ad6f-427f-a6d2-f0628828feab.png)
 - ![Screenshot (786)](https://user-images.githubusercontent.com/71593494/138031907-a55cfa52-5db5-4793-9508-38ecfd3dd81f.png)
      "![Screenshot (788)](https://user-images.githubusercontent.com/71593494/138031938-b80a153f-ed8e-411f-860a-9f86073617d4.png)">
