@@ -43,7 +43,7 @@ Only display the folder name:
 
 # License
 
-[MIT][mit] © [neelshah2409][author] et [al][contributors]
+[MIT][mit] © [neelshah2409][author] 
 
 
 [mit]:            http://opensource.org/licenses/MIT
